@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * Entry point of the program
- * The program is to find positive and negative numbers
- * Returns 0 on success
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
