@@ -7,6 +7,7 @@
  * The program is to find positive and negative numbers
  * Returns 0 on success
  */
+
 int main(void)
 {
 	int n;
