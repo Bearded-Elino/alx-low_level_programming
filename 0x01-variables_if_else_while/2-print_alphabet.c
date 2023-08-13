@@ -12,6 +12,6 @@ int main(void)
 		putchar(v);
 		v++;
 	}
-	putchar(v);
+	putchar('\v');
 	return (0);
 }
