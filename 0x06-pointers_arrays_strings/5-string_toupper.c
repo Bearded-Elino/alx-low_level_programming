@@ -8,7 +8,7 @@ char *string_toupper(char *)
 {
 	int i;
 
-	int 0;
+	i = 0;
 	while (n[i] != '\0')
 	{
 		if (n[i] >= 'a' && n[i] <= 'z')
